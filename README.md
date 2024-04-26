@@ -10,7 +10,7 @@ This project employs YOLO (You Only Look Once) object detection to conduct compr
 
    ```bash
    git clone https://github.com/rajveersinghcse/football-analysis-using-yolo.git
-   cd football-analysis-yolo
+   cd football-analysis-using-yolo
    ```
 
 2. **Install Dependencies:**
