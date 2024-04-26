@@ -58,8 +58,6 @@ The following libraries are used in this project:
 - **`view_transformer.py`**: Transforms object positions based on the camera view for accurate analysis.
 - **`speed_and_distance_estimator.py`**: Calculates player speeds and distances traveled for performance evaluation.
 
-## Example Usage
-
 ## Contributing
 
 Contributions, feedback, and suggestions are highly encouraged! Please feel free to open an issue or submit a pull request with any improvements or new features.
