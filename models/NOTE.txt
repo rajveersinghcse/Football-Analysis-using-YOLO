@@ -1,0 +1,1 @@
+You need to run Football_training_yolo_v5.ipynb file to get the models. You will find the models into training folder.
