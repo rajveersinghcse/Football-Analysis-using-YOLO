@@ -2,7 +2,7 @@
 
 This project employs YOLO (You Only Look Once) object detection to conduct comprehensive analysis of football matches. The goal is to provide detailed insights into player performance, team dynamics, ball possession, and camera movements during a match.
 
-<o><img height="400" width="1000" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/Football%20Analysis.mp4" alt="demo"></p>
+<o><img height="400" width="1000" src="https://github.com/rajveersinghcse/rajveersinghcse/blob/master/img/Football%20Analysis.gif" alt="demo"></p>
 
 ## Installation
 
